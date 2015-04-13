@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KBB3IntentService</string>
+
+    <string name="button_start_service">Start Service</string>
+    <string name="button_start_intent_service">Start Intent Service</string>
+    <string name="action_settings">Settings</string>
+</resources>
